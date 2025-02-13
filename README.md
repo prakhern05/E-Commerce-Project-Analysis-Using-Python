@@ -1,1 +1,3 @@
 # E-Commerce-Project-Analysis-Using-Python
+
+The problem statement involves analyzing sales and profit data for a retail store to understand trends and performance across different dimensions. Using Python with libraries like Pandas and Matplotlib, I performed data cleaning, aggregation, and visualization to calculate monthly sales, identify peak/low sales periods, analyze sales/profit by product category and sub-category, determine the highest profit month, analyze sales/profit by customer segment, and calculate the sales-to-profit ratio. This analysis provides insights into business performance and areas for improvement
